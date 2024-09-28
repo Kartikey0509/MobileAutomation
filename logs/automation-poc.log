@@ -1,0 +1,5 @@
+[INFO ] 2024-07-29 12:53:03.548 [main] utility.BaseClass:26 - Test TEST START
+[INFO ] 2024-07-29 12:53:06.073 [main] utility.BaseClass:30 - basePage START
+[WARN ] 2024-07-29 12:53:06.078 [main] utility.BaseClass:56 - basePage SKIP
+[ERROR] 2024-07-29 12:53:06.334 [main] utility.BaseClass:46 - basePage FAIL
+[INFO ] 2024-07-29 12:53:06.376 [main] utility.BaseClass:61 - Test TEST FINISH

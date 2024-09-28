@@ -1,0 +1,17 @@
+[INFO ] 2021-07-21 10:08:44.508 [main] utility.BaseClass:26 - Test TEST START
+[INFO ] 2021-07-21 10:08:59.490 [main] utility.BaseClass:30 - basePage START
+[INFO ] 2021-07-21 10:08:59.777 [main] pages.Login:58 - Waiting for login screen to load
+[ERROR] 2021-07-21 10:10:00.570 [main] utility.BaseClass:46 - basePage FAIL
+[ERROR] 2021-07-21 10:10:01.513 [main] utility.BaseClass:46 - basePage FAIL
+[INFO ] 2021-07-21 10:10:02.053 [main] utility.BaseClass:61 - Test TEST FINISH
+[INFO ] 2021-07-21 13:28:47.061 [main] utility.BaseClass:26 - Test TEST START
+[INFO ] 2021-07-21 13:29:32.162 [main] utility.BaseClass:30 - basePage START
+[WARN ] 2021-07-21 13:29:32.169 [main] utility.BaseClass:56 - basePage SKIP
+[ERROR] 2021-07-21 13:29:32.360 [main] utility.BaseClass:46 - basePage FAIL
+[INFO ] 2021-07-21 13:29:32.399 [main] utility.BaseClass:61 - Test TEST FINISH
+[INFO ] 2021-07-21 13:30:00.935 [main] utility.BaseClass:26 - Test TEST START
+[INFO ] 2021-07-21 13:30:27.459 [main] utility.BaseClass:30 - basePage START
+[INFO ] 2021-07-21 13:30:27.750 [main] pages.Login:58 - Waiting for login screen to load
+[ERROR] 2021-07-21 13:31:28.632 [main] utility.BaseClass:46 - basePage FAIL
+[ERROR] 2021-07-21 13:31:30.762 [main] utility.BaseClass:46 - basePage FAIL
+[INFO ] 2021-07-21 13:31:31.435 [main] utility.BaseClass:61 - Test TEST FINISH
